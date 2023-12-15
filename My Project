@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Best Movies</title>
+        <style>
+            h2,p{
+                color: #160f0e;
+                text-align: center;
+            }
+        </style>
+      </head>
+
+      <body style="background-color: #120703" data-new-gr-c-s-check-loaded="14.1146.0" data-gr-ext-installed="">
+        <div style="width: 1300px; display: flex;margin-inline: auto;">
+          <div style="
+              width: 400px;
+              border: 1px solid rgb(239, 234, 244);
+              background-color: #7EC8E3;
+            ">
+            <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202310/ranbir-kapoor--rashmika-mandanna-lock-lips-in-new-animal-poster-103807332-3x4.jpg?VersionId=J8e_Z5hd5U.C_Wl8c3O6mQvWF9gEPMWH" alt="description of the image" width="400" height="425">
+            <div style="padding: 20px">
+              <h2>Animal</h2>
+              <p>Rating:- 4.5</p>
+              <button style="
+                  padding: 5px 15px;
+                  background-color: #0000FF;
+                  border: none;
+                  display: block;
+                  margin-inline: auto;
+                ">
+                Book now
+              </button>
+            </div>
+          </div>
+          <div style="
+              width: 400px;
+              border: 1px solid rgb(239, 234, 244);
+              background-color: #7EC8E3;
+              margin-inline: 10px;
+            ">
+            <img style="width: 400px" src="https://resizing.flixster.com/ngCC1fAbmOnQjuqNn14pazJ5mj0=/300x300/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p155910_v_h10_aa.jpg" alt="description of the image" width="400" height="425">
+            <div style="padding: 20px">
+                <h2>Animal</h2>
+                <p>Rating:- 4.5</p>
+                <button style="
+                    padding: 5px 15px;
+                    background-color: #0000FF;
+                    border: none;
+                    display: block;
+                    margin-inline: auto;
+                  ">
+                  Book now
+                </button>
+              </div>
+            </div>
+            <div style="
+              width: 400px;
+              border: 1px solid rgb(239, 234, 244);
+              background-color: #7EC8E3;
+            ">
+            <img style="width: 400px" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Chak_De%21_India.jpg" alt="description of the image" width="400" height="425">
+            <div style="padding: 20px">
+              <h2>Chak De India</h2>
+              <p>Rating:- 4.5</p>
+              <button style="
+                  padding: 5px 15px;
+                  background-color: #0000FF;
+                  border: none;
+                  display: block;
+                  margin-inline: auto;
+                ">
+                Book now
+              </button>
+            </div>
+          </div>
+        </div>
+        <div style="width: 1300px; display: flex;margin-inline: auto; margin-top: 20px;">
+            <div style="
+            width: 400px;
+            border: 1px solid rgb(239, 234, 244);
+            background-color: #7EC8E3;
+          ">
+            <img style="width: 400px" src="https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2022/09/30/Rebel-Star-Prabhas-Adipurush-Movie-First-Look-HD-posters--scaled.jpg?fit=1885%2C2560&quality=80&zoom=1&ssl=1?v=1664503337" alt="description of the image" width="400" height="425">
+            <div style="padding: 20px">
+              <h2>Adipurush</h2>
+              <p>Rating:- 4.5</p>
+              <button style="
+                  padding: 5px 15px;
+                  background-color: #0000FF;
+                  border: none;
+                  display: block;
+                  margin-inline: auto;
+                ">
+                Book now
+              </button>
+            </div>
+          </div>
+          <div style="
+              width: 400px;
+              border: 1px solid rgb(239, 234, 244);
+              background-color: #7EC8E3;
+              margin-inline: 10px;
+            ">
+            <img style="width: 400px" src="https://theobjectivestandard.com/wp-content/uploads/2022/03/3-Idiots-Written-and-Directed-by-Rajkumar-Hirani.jpg" alt="description of the image" width="400" height="425">
+            <div style="padding: 20px">
+              <h2>3 3 Idiots</h2>
+              <p>Rating:- 4.5</p>
+              <button style="
+                  padding: 5px 15px;
+                  background-color: #0000FF;
+                  border: none;
+                  display: block;
+                  margin-inline: auto;
+                ">
+                Book now
+              </button>
+            </div>
+          </div>
+          <div style="
+              width: 400px;
+              border: 1px solid rgb(239, 234, 244);
+              background-color: #7EC8E3;
+            ">
+            <img style="width: 400px" src="https://stat4.bollywoodhungama.in/wp-content/uploads/2016/05/429188525.jpg" alt="description of the image" width="400" height="425">
+            <div style="padding: 20px">
+              <h2>Bajrangi Bhaijaan</h2>
+              <p>Rating:- 4.5</p>
+              <button style="
+                  padding: 5px 15px;
+                  background-color: #0000FF;
+                  border: none;
+                  display: block;
+                  margin-inline: auto;
+                ">
+                Book now
+              </button>
+            </div>
+          </div>
+        </div>
+      
+    
+    </body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
